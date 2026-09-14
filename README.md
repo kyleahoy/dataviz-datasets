@@ -19,7 +19,7 @@ QuarterlyCoal Dataset
 
 Quarterly mine-level coal production in short tons for Quarter 1 2000 through Quarter 4 2025. Data includes geographic information about the mine (state, county, lat, and long), descriptors about the mine (coal type, mine type, and coal region) along with production information (average employees, hours worked, and production). 
 
-Data Source: [U.S. DOL MSHA Mine Data Retrieval System](https://www.msha.gov/data-and-reports/mine-data-retrieval-system)
+Data Source: [U.S. DOL MSHA Mine Data Retrieval System](https://www.msha.gov/mdrs)
 
 Note: CoalRegion is based on U.S. EIA coal regions. Dataset is mildly cleaned and drops one VA mine without lat and long data.
 
