@@ -8,6 +8,13 @@ Annual U.S. emissions of carbon dioxide in million metric tons of co2 for 1960 t
 Data Source: [U.S. EIA SEDS](https://www.eia.gov/state/seds/seds-data-complete.php?sid=US)
 
 
+* MineNames Dataset
+
+List of mine ids and current names for Quarter 1 2000 through Quarter 4 2025. For use with the QuarterlyCoal dataset. 
+
+Data Source: U.S. DOL MSHA Mine Data Retrieval System
+
+
 * MonthlyCoal Dataset
 
 Monthly coal production in short tons for January 2000 through December 2025. Data is available for the U.S. and for the Appalachian, Interior, and Western coal regions.
